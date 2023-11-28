@@ -40,15 +40,34 @@ RegisterNumber:
 */
 
 ## Output:
+### HALF SUBTRACTOR:
+![Screenshot 2023-11-28 143458](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/68b848f2-f3ce-43e8-9a06-d6c62bd58d98)
+
+### FULL SUBTRACTOR:
+![Screenshot 2023-11-28 143600](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/43f51fea-530e-4e20-9244-d1fd2180968c)
 
 ## Truthtable
+### HALF SUBTRACTOR:
+![Screenshot 2023-11-28 143248](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/e8b5a182-b444-4f78-88ce-9c1562ef183a)
 
-
+### FULL SUBTRACTOR:
+![Screenshot 2023-11-28 143255](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/e627491a-060b-4c18-8ebf-ed5e2319fa76)
 
 ##  RTL realization
+### HALF SUBTRACTOR:
+![HALF SUBTRACTOR-DIAGRAM](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/9cc5b35e-3d12-4c93-8e4d-5299cee984da)
 
+### FULL SUBTRACTOR:
+![FULL SUBTRACTOR-DIAGRAM](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/dfca2de7-0927-421a-9092-b3e77d25f1d6)
 
 ## Timing diagram 
+### HALF SUBTRACTOR:
+![HALF SUBTRACTOR-DIAGRAM](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/bb426233-de26-4b8a-81ba-81f4673fd850)
+
+### FULL SUBTRACTOR:
+![FULL SUBTRACTOR-WAVEFORM](https://github.com/hasnu0406/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/135305537/2b0e4422-d6b4-4434-a62b-8b304d08d419)
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
